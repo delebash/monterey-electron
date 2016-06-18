@@ -15,7 +15,7 @@ import env from './env';
 var mainWindow;
 
 var setApplicationMenu = function () {
-    var menus = [editMenuTemplate];
+    var menus = [];  // originally this was set to editMenuTemplate
     if (env.name !== 'production') {
         menus.push(devMenuTemplate);
     }
