@@ -1,4 +1,4 @@
-# monterey
+# monterey - pure electron version
 
 [![Join the chat at https://gitter.im/aurelia-tools/monterey](https://badges.gitter.im/aurelia-tools/monterey.svg)](https://gitter.im/aurelia-tools/monterey?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
